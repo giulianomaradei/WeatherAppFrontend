@@ -1,0 +1,30 @@
+.header{
+    height: 13vh;
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #0B2447;
+    color: white;
+    font-family: Rubik;
+    
+    border: 1px solid rgb(81, 81, 81);
+}
+
+.header div{
+    margin: 0 1rem;
+}
+
+.headerTitle{
+    font-size: 3rem;
+    padding: 0.8rem;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.headerImage{
+    height: 80%;
+}

@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+@font-face {
+    font-family: "Rubik";   /*Can be any text*/
+    src: local("Rubik-Regular"),
+      url("./assets/fonts/Rubik-Regular.ttf") format("truetype");
+  }
